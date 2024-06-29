@@ -1,0 +1,10 @@
+{
+  "fileDirections": {
+    "Cool Tricks and Shticks (Notes).md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

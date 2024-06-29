@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "853fb02c92f130ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da726abf2843667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0424e97df84df820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "משפטים ומסקנות מאינפי 1 לזכור.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82bbe07388eb10bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "סדרות פונקציות או טורי פונקציות.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee0c2295ff91661f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "משפטים ומסקנות מאינפי 1 לזכור.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fa684156d16ff23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "משפטים ומסקנות מאינפי 1 לזכור.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0b6e60ff342566c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "אוסף משפטים, שאלות ודוגמאות שימושיות לסמן בספר.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63730e3ae478d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "רשימות נוסחאות אינטגרציה.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0756cfe31f92571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "משפטים ומסקנות מאינפי 1 לזכור.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f832175f6da1af27",
+    "type": "split",
+    "children": [
+      {
+        "id": "a63707f867231621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664a2aea6588cd85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddc18ef1b5a6ed79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5724f00f058d29a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "1f0127bf6b148cf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a857e3c547c476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4707fd0015617821",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "משפטים ומסקנות מאינפי 1 לזכור.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "524ccffa4e132b33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "ee0c2295ff91661f",
+  "lastOpenFiles": [
+    "אוסף משפטים, שאלות ודוגמאות שימושיות לסמן בספר.md",
+    "סדרות פונקציות או טורי פונקציות.md",
+    "משפטים ומסקנות מאינפי 1 לזכור.md",
+    "רשימות נוסחאות אינטגרציה.md",
+    "Shit Attachments/Pasted image 20240416024454.png",
+    "פונקציות בשני משתנים.md",
+    "Shit Attachments/Pasted image 20240410211821.png",
+    "Shit Attachments/Pasted image 20240407204558.png",
+    "קצת חוקי לוגריתמים.md",
+    "Shit Attachments/Pasted image 20240328064613.png",
+    "Shit Attachments/Pasted image 20240325011933.png",
+    "Shit Attachments/Pasted image 20240325014107.png",
+    "Shit Attachments/אינפי 2 שיט/Pasted image 20240322112231.png",
+    "Shit Attachments/אינפי 2 שיט/Pasted image 20240323175525.png",
+    "Shit Attachments/אינפי 2 שיט/Pasted image 20240324203536.png",
+    "Shit Attachments/אינפי 2 שיט/Pasted image 20240322110946.png",
+    "התהליך הקלאסי של דיריכלה.md",
+    "Shit Attachments/אינפי 2 שיט",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled",
+    "Shit Attachments",
+    "Open University/אינפי 2/סיכומים.md",
+    "Blah.md",
+    "אינפי 2",
+    "Open University",
+    "Test.md"
+  ]
+}

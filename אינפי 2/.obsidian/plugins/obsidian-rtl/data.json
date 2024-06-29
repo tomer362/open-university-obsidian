@@ -1,0 +1,15 @@
+{
+  "fileDirections": {
+    "רשימות נוסחאות אינטגרציה.md": "rtl",
+    "אוסף משפטים, שאלות ודוגמאות שימושיות לסמן בספר.md": "auto",
+    "משפטים ומסקנות מאינפי 1 לזכור.md": "rtl",
+    "סדרות פונקציות או טורי פונקציות.md": "rtl",
+    "פונקציות בשני משתנים.md": "rtl",
+    "קצת חוקי לוגריתמים.md": "rtl"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

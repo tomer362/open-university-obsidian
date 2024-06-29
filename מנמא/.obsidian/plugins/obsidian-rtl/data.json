@@ -1,0 +1,20 @@
+{
+  "fileDirections": {
+    "מצגות.md": "auto",
+    "הרבה רנדומים -תכונות אי שוויונים, חוקי לוגריתמים....md": "rtl",
+    "טריקים חמודים.md": "auto",
+    "Mamans/mmn11/answers/mmn11 pub answers.md": "auto",
+    "Mamans/mmn11/answers/Solutions to Introduction to Algorithms.md": "rtl",
+    "הערות רנדומליות.md": "rtl",
+    "מלחמה/דברים שלא ילמדו הסימסטר.md": "rtl",
+    "מלחמה/הערות בנוגע למלחמה.md": "auto",
+    "טורים, סכומי סדרות מוכרות.md": "rtl",
+    "TODOS למבחן.md": "auto",
+    "סיכום כללי - מנמא.md": "auto"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

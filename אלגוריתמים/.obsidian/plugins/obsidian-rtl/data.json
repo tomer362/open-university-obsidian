@@ -1,0 +1,10 @@
+{
+  "fileDirections": {
+    "Main Notes/FFT (לא צריך כי לא במבחן) - 6.md": "rtl"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
