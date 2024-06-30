@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/1 - סיכום כללי.md",
+                "file": "Main Notes/3 - תכנון דינאמי.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/1 - סיכום כללי.md",
+                "file": "Main Notes/3 - תכנון דינאמי.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/1 - סיכום כללי.md",
+                "file": "Main Notes/3 - תכנון דינאמי.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Notes/1 - סיכום כללי.md"
+                "file": "Main Notes/3 - תכנון דינאמי.md"
               }
             }
           }
@@ -173,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b71b0bf59145119",
+  "active": "3a6715651c70e07b",
   "lastOpenFiles": [
-    "Main Notes/6 - במה להשתפר לקראת המבחן.md",
     "Main Notes/1 - סיכום כללי.md",
+    "Main Notes/6 - במה להשתפר לקראת המבחן.md",
     "7 - במה להשתפר לקראת המבחן.md",
     "Main Notes/4 - רשתות זרימה.md",
     "2024-06-29.md",

@@ -1,6 +1,7 @@
 {
   "fileDirections": {
-    "Main Notes/FFT (לא צריך כי לא במבחן) - 6.md": "rtl"
+    "Main Notes/FFT (לא צריך כי לא במבחן) - 6.md": "rtl",
+    "Main Notes/3 - תכנון דינאמי.md": "auto"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
