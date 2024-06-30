@@ -15,6 +15,7 @@
               "state": {
                 "file": "Main Notes/1 - סיכום כללי.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -27,6 +28,7 @@
               "state": {
                 "file": "Main Notes/4 - רשתות זרימה.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -39,6 +41,7 @@
               "state": {
                 "file": "Main Notes/4 - רשתות זרימה.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -170,11 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6715651c70e07b",
+  "active": "2b71b0bf59145119",
   "lastOpenFiles": [
+    "Main Notes/6 - במה להשתפר לקראת המבחן.md",
+    "Main Notes/1 - סיכום כללי.md",
+    "7 - במה להשתפר לקראת המבחן.md",
     "Main Notes/4 - רשתות זרימה.md",
     "2024-06-29.md",
-    "Main Notes/1 - סיכום כללי.md",
     "Main Notes/2 - הערות לגבי המבחן.md",
     "Main Notes/5 - סיכומים.md",
     "Main Notes/3 - תכנון דינאמי.md",

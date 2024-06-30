@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md",
+                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md",
+                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md",
+                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md"
+                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "69c1577fb8cd9313",
   "lastOpenFiles": [
     "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md",
+    "אלגוריתמים/7 - במה להשתפר לקראת המבחן.md",
     "אלגוריתמים/Main Notes/FFT (לא צריך כי לא במבחן).md",
     "אלגוריתמים/Main Notes/1 - סיכום כללי.md"
   ]
