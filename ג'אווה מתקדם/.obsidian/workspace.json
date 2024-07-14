@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "נושאים/מחלקות ושיט.md",
+                "file": "נושאים/ממשק גרפי.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links and Shit.md",
+                "file": "נושאים/ממשק גרפי.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links and Shit.md",
+                "file": "נושאים/ממשק גרפי.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links and Shit.md"
+                "file": "נושאים/ממשק גרפי.md"
               }
             }
           }
@@ -195,12 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3559f3a2e1797e5f",
+  "active": "57b72bead1dcb4f0",
   "lastOpenFiles": [
+    "Pasted image 20240715001045.png",
+    "Pasted image 20240715001029.png",
+    "נושאים/מחלקות ושיט.md",
+    "Links and Shit.md",
     "סיכום חומר.md",
     "דברים לעבור עליהם לקראת המבחן.md",
     "Resources/Pasted image 20240715000018.png",
-    "נושאים/מחלקות ושיט.md",
     "נושאים/ממשק גרפי.md",
     "נושאים",
     "Resources/Pasted image 20240714202039.png",
@@ -212,9 +214,7 @@
     "נושאים/רנדום.md",
     "Resources/Pasted image 20240714203317.png",
     "Resources/Pasted image 20240714203136.png",
-    "Resources/Pasted image 20240714202600.png",
     "Resources",
-    "Links and Shit.md",
     "Welcome.md"
   ]
 }
