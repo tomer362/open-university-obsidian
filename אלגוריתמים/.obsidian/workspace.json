@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c10060f5be9c94d",
+        "id": "bfce75ecc3a864ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6715651c70e07b",
+            "id": "c1aaa405d9d69c99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/3 - תכנון דינאמי.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "effa0ecc5719f230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Notes/4 - רשתות זרימה.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "755387c45dfd83c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Notes/4 - רשתות זרימה.md",
+                "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "פרים",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/3 - תכנון דינאמי.md",
+                "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/3 - תכנון דינאמי.md",
+                "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Notes/3 - תכנון דינאמי.md"
+                "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md"
               }
             }
           }
@@ -173,16 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6715651c70e07b",
+  "active": "9abae9025d6e42cb",
   "lastOpenFiles": [
-    "Main Notes/1 - סיכום כללי.md",
-    "Main Notes/6 - במה להשתפר לקראת המבחן.md",
-    "7 - במה להשתפר לקראת המבחן.md",
-    "Main Notes/4 - רשתות זרימה.md",
-    "2024-06-29.md",
-    "Main Notes/2 - הערות לגבי המבחן.md",
     "Main Notes/5 - סיכומים.md",
+    "Main Notes/4 - רשתות זרימה.md",
+    "Main Notes/6 - במה להשתפר לקראת המבחן.md",
+    "Main Notes/3.5 - גרפים.md",
+    "Main Notes/1 - סיכום כללי.md",
+    "Main Notes/2 - הערות לגבי המבחן.md",
     "Main Notes/3 - תכנון דינאמי.md",
+    "7 - במה להשתפר לקראת המבחן.md",
+    "2024-06-29.md",
     "Shit Attachments/Pasted image 20240628161632.png",
     "Main Notes/FFT (לא צריך כי לא במבחן) - 6.md",
     "Main Notes",
