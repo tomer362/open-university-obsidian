@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c8671c968eb3a5",
+        "id": "6b746d1d49ddddb8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a0eff4657fd87d",
+            "id": "4ba6620276897cd9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff7e481f076426f7",
+  "active": "4ba6620276897cd9",
   "lastOpenFiles": [
+    "ג'אווה מתקדם/Resources/Pasted image 20240715004516.png",
+    "ג'אווה מתקדם/Resources/Pasted image 20240715004532.png",
+    "ג'אווה מתקדם/Pasted image 20240715004532.png",
+    "ג'אווה מתקדם/Pasted image 20240715004516.png",
     "ג'אווה מתקדם/רנדום מידע לקראת המבחן.md",
     "ג'אווה מתקדם/Untitled.md",
     "ג'אווה מתקדם/Resources/Pasted image 20240715003853.png",
@@ -157,11 +161,8 @@
     "ג'אווה מתקדם/Resources/Pasted image 20240715002718.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240715003037.png",
     "ג'אווה מתקדם/Pasted image 20240715003037.png",
-    "ג'אווה מתקדם/Pasted image 20240715002718.png",
-    "ג'אווה מתקדם/Resources/Pasted image 20240715002150.png",
     "ג'אווה מתקדם/נושאים/תכנות גנרי.md",
     "ג'אווה מתקדם/תכנות גנרי.md",
-    "ג'אווה מתקדם/Pasted image 20240715002150.png",
     "ג'אווה מתקדם/נושאים/רנדום.md",
     "ג'אווה מתקדם/נושאים/ממשק גרפי.md",
     "ג'אווה מתקדם/נושאים/מחלקות ושיט.md",
