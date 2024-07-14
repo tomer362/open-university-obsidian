@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61a10d63d72e9adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "נושאים/חריגות (Exceptions).md",
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "נושאים/חריגות (Exceptions).md",
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "נושאים/חריגות (Exceptions).md"
+                "file": "דברים לעבור עליהם לקראת המבחן.md"
               }
             }
           }
@@ -146,26 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ff6170aa7151a26",
+  "active": "61a10d63d72e9adf",
   "lastOpenFiles": [
-    "Pasted image 20240715010214.png",
-    "נושאים/תכנות גנרי.md",
     "נושאים/חריגות (Exceptions).md",
-    "Pasted image 20240715005958.png",
-    "Pasted image 20240715005938.png",
+    "Resources/Pasted image 20240715011422.png",
+    "Resources/Pasted image 20240715005938.png",
+    "Resources/Pasted image 20240715011246.png",
+    "Resources/Pasted image 20240715010214.png",
+    "נושאים/תכנות גנרי.md",
+    "Resources/Pasted image 20240715005958.png",
     "Resources/Pasted image 20240715005511.png",
     "Resources/Pasted image 20240715005610.png",
     "Resources/Pasted image 20240715005547.png",
     "Resources/Pasted image 20240715005535.png",
     "Resources/Pasted image 20240715005131.png",
-    "Resources/Pasted image 20240715005100.png",
     "Links and Shit.md",
     "דברים לעבור עליהם לקראת המבחן.md",
     "רנדום מידע לקראת המבחן.md",
     "נושאים/רנדום.md",
     "נושאים/מחלקות ושיט.md",
-    "Resources/Pasted image 20240715004516.png",
-    "Resources/Pasted image 20240715004532.png",
     "נושאים/ממשק גרפי.md",
     "סיכום חומר.md",
     "נושאים",
