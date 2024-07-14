@@ -8,31 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ff6170aa7151a26",
+            "id": "61a10d63d72e9adf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Pasted image 20240715013452.png"
+              }
+            }
+          },
+          {
+            "id": "c8ba56ac6a3965a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "נושאים/חריגות (Exceptions).md",
+                "file": "סיכום חומר.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61a10d63d72e9adf",
+            "id": "fad8c7a6f594a21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/ממשק גרפי.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/ממשק גרפי.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/ממשק גרפי.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md"
+                "file": "נושאים/ממשק גרפי.md"
               }
             }
           }
@@ -159,27 +169,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61a10d63d72e9adf",
+  "active": "fad8c7a6f594a21a",
   "lastOpenFiles": [
+    "נושאים/מחרוזות תווים וקבצים.md",
+    "Resources/Pasted image 20240715013820.png",
+    "Resources/Pasted image 20240715013828.png",
+    "Resources/Pasted image 20240715013452.png",
+    "דברים לעבור עליהם לקראת המבחן.md",
+    "Resources/Pasted image 20240715013708.png",
+    "Resources/Pasted image 20240715013613.png",
+    "סיכום חומר.md",
+    "Resources/Pasted image 20240715013143.png",
     "נושאים/חריגות (Exceptions).md",
+    "Resources/Pasted image 20240715013153.png",
+    "Resources/Pasted image 20240715013121.png",
     "Resources/Pasted image 20240715011422.png",
     "Resources/Pasted image 20240715005938.png",
-    "Resources/Pasted image 20240715011246.png",
-    "Resources/Pasted image 20240715010214.png",
     "נושאים/תכנות גנרי.md",
-    "Resources/Pasted image 20240715005958.png",
-    "Resources/Pasted image 20240715005511.png",
-    "Resources/Pasted image 20240715005610.png",
-    "Resources/Pasted image 20240715005547.png",
-    "Resources/Pasted image 20240715005535.png",
-    "Resources/Pasted image 20240715005131.png",
     "Links and Shit.md",
-    "דברים לעבור עליהם לקראת המבחן.md",
     "רנדום מידע לקראת המבחן.md",
     "נושאים/רנדום.md",
     "נושאים/מחלקות ושיט.md",
     "נושאים/ממשק גרפי.md",
-    "סיכום חומר.md",
     "נושאים",
     "Resources",
     "Welcome.md"
