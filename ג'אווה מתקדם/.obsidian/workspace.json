@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "מחלקות ושיט.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "קישור דינ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "מחלקות ושיט.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "מחלקות ושיט.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md"
+                "file": "מחלקות ושיט.md"
               }
             }
           }
@@ -181,6 +182,9 @@
   },
   "active": "45f362f1aaf3ce94",
   "lastOpenFiles": [
+    "Pasted image 20240714235004.png",
+    "Pasted image 20240714234723.png",
+    "דברים לעבור עליהם לקראת המבחן.md",
     "מחלקות ושיט.md",
     "סיכום חומר.md",
     "Resources/Pasted image 20240714213447.png",
@@ -189,12 +193,10 @@
     "Resources/Pasted image 20240714202700.png",
     "Resources/Pasted image 20240714203317.png",
     "Resources/Pasted image 20240714203136.png",
-    "דברים לעבור עליהם לקראת המבחן.md",
     "Resources/Pasted image 20240714202039.png",
     "Resources/Pasted image 20240714202600.png",
     "Resources/Pasted image 20240714202244.png",
     "Resources/Pasted image 20240714201732.png",
-    "Resources/Pasted image 20240714201542.png",
     "Resources",
     "Links and Shit.md",
     "Welcome.md"

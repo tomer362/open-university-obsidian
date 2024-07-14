@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "291252065972c2eb",
+        "id": "c5c8671c968eb3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "69c1577fb8cd9313",
+            "id": "c4a0eff4657fd87d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ג'אווה מתקדם/Links and Shit.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ג'אווה מתקדם/Links and Shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ג'אווה מתקדם/Links and Shit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ג'אווה מתקדם/Links and Shit.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff7e481f076426f7",
+  "active": "c4a0eff4657fd87d",
   "lastOpenFiles": [
+    "ג'אווה מתקדם/Pasted image 20240714235004.png",
+    "ג'אווה מתקדם/Pasted image 20240714234723.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "ג'אווה מתקדם/Links and Shit.md",
     "ג'אווה מתקדם/Resources/Pasted image 20240714213447.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240714234313.png",
     "ג'אווה מתקדם/Pasted image 20240714234313.png",
@@ -167,8 +164,6 @@
     "ג'אווה מתקדם/Untitled.md",
     "ג'אווה מתקדם/Pasted image 20240714203317.png",
     "ג'אווה מתקדם/Pasted image 20240714203136.png",
-    "ג'אווה מתקדם/Pasted image 20240714202700.png",
-    "ג'אווה מתקדם/Resources/Pasted image 20240714202244.png",
     "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
     "ג'אווה מתקדם/Resources",
     "ג'אווה מתקדם/Shit Resources",
