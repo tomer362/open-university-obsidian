@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "מחלקות ושיט.md",
+                "file": "נושאים/מחלקות ושיט.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6057d37852b1d3c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Pasted image 20240714202700.png"
               }
             }
           },
@@ -35,24 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "מחלקות ושיט.md",
+                "file": "נושאים/מחלקות ושיט.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24e93a7404b5b143",
+            "id": "793efcee36e3da31",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Pasted image 20240714202039.png"
+                "file": "נושאים/מחלקות ושיט.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3559f3a2e1797e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links and Shit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6aa8befa90f1b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "מחלקות ושיט.md",
+                "file": "Links and Shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "מחלקות ושיט.md",
+                "file": "Links and Shit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "מחלקות ושיט.md"
+                "file": "Links and Shit.md"
               }
             }
           }
@@ -180,23 +195,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45f362f1aaf3ce94",
+  "active": "3559f3a2e1797e5f",
   "lastOpenFiles": [
-    "Pasted image 20240714235004.png",
-    "Pasted image 20240714234723.png",
-    "דברים לעבור עליהם לקראת המבחן.md",
-    "מחלקות ושיט.md",
     "סיכום חומר.md",
+    "דברים לעבור עליהם לקראת המבחן.md",
+    "Resources/Pasted image 20240715000018.png",
+    "נושאים/מחלקות ושיט.md",
+    "נושאים/ממשק גרפי.md",
+    "נושאים",
+    "Resources/Pasted image 20240714202039.png",
+    "Resources/Pasted image 20240714202700.png",
+    "Resources/Pasted image 20240714235004.png",
+    "Resources/Pasted image 20240714234723.png",
     "Resources/Pasted image 20240714213447.png",
     "Resources/Pasted image 20240714234313.png",
-    "רנדום.md",
-    "Resources/Pasted image 20240714202700.png",
+    "נושאים/רנדום.md",
     "Resources/Pasted image 20240714203317.png",
     "Resources/Pasted image 20240714203136.png",
-    "Resources/Pasted image 20240714202039.png",
     "Resources/Pasted image 20240714202600.png",
-    "Resources/Pasted image 20240714202244.png",
-    "Resources/Pasted image 20240714201732.png",
     "Resources",
     "Links and Shit.md",
     "Welcome.md"

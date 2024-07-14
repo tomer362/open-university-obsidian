@@ -1,8 +1,8 @@
 {
   "fileDirections": {
     "דברים לעבור עליהם לקראת המבחן.md": "rtl",
-    "מחלקות ושיט.md": "auto",
-    "רנדום.md": "auto"
+    "נושאים/מחלקות ושיט.md": "auto",
+    "נושאים/רנדום.md": "auto"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,
