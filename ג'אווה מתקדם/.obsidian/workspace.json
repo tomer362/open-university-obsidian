@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe78a49a5f2a4ce",
+        "id": "260b1afd2c98e9cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9632dcbac7a7c3c4",
+            "id": "5ff6170aa7151a26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "נושאים/תכנות גנרי.md",
+                "file": "נושאים/חריגות (Exceptions).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "נושאים/תכנות גנרי.md",
+                "file": "נושאים/חריגות (Exceptions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "נושאים/תכנות גנרי.md",
+                "file": "נושאים/חריגות (Exceptions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "נושאים/תכנות גנרי.md"
+                "file": "נושאים/חריגות (Exceptions).md"
               }
             }
           }
@@ -146,26 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9632dcbac7a7c3c4",
+  "active": "5ff6170aa7151a26",
   "lastOpenFiles": [
+    "Pasted image 20240715010214.png",
+    "נושאים/תכנות גנרי.md",
+    "נושאים/חריגות (Exceptions).md",
+    "Pasted image 20240715005958.png",
+    "Pasted image 20240715005938.png",
+    "Resources/Pasted image 20240715005511.png",
+    "Resources/Pasted image 20240715005610.png",
+    "Resources/Pasted image 20240715005547.png",
+    "Resources/Pasted image 20240715005535.png",
+    "Resources/Pasted image 20240715005131.png",
+    "Resources/Pasted image 20240715005100.png",
+    "Links and Shit.md",
     "דברים לעבור עליהם לקראת המבחן.md",
     "רנדום מידע לקראת המבחן.md",
     "נושאים/רנדום.md",
     "נושאים/מחלקות ושיט.md",
     "Resources/Pasted image 20240715004516.png",
-    "נושאים/תכנות גנרי.md",
     "Resources/Pasted image 20240715004532.png",
     "נושאים/ממשק גרפי.md",
-    "Resources/Pasted image 20240715003853.png",
-    "Resources/Pasted image 20240715003526.png",
     "סיכום חומר.md",
-    "Links and Shit.md",
-    "Resources/Pasted image 20240715002718.png",
-    "Resources/Pasted image 20240715003037.png",
-    "Resources/Pasted image 20240715002150.png",
-    "Resources/Pasted image 20240715001029.png",
-    "Resources/Pasted image 20240715002036.png",
-    "Resources/Pasted image 20240715001938.png",
     "נושאים",
     "Resources",
     "Welcome.md"
