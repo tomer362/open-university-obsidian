@@ -20,12 +20,22 @@
             }
           },
           {
+            "id": "6057d37852b1d3c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Pasted image 20240714202700.png"
+              }
+            }
+          },
+          {
             "id": "45f362f1aaf3ce94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "סיכום חומר.md",
+                "file": "מחלקות ושיט.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,22 +179,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57b72bead1dcb4f0",
+  "active": "45f362f1aaf3ce94",
   "lastOpenFiles": [
-    "Pasted image 20240714203317.png",
-    "Pasted image 20240714203136.png",
-    "Pasted image 20240714202700.png",
+    "Pasted image 20240714213447.png",
     "סיכום חומר.md",
+    "מחלקות ושיט.md",
+    "Resources/Pasted image 20240714202700.png",
+    "רנדום.md",
+    "Resources/Pasted image 20240714203317.png",
+    "Resources/Pasted image 20240714203136.png",
     "דברים לעבור עליהם לקראת המבחן.md",
     "Resources/Pasted image 20240714202039.png",
-    "מחלקות ושיט.md",
     "Resources/Pasted image 20240714202600.png",
     "Resources/Pasted image 20240714202244.png",
     "Resources/Pasted image 20240714201732.png",
     "Resources/Pasted image 20240714201542.png",
     "Resources/Pasted image 20240714201639.png",
     "Resources/Pasted image 20240714201548.png",
-    "Resources/Pasted image 20240714201309.png",
     "Resources",
     "Links and Shit.md",
     "Welcome.md"
