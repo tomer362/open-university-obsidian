@@ -23,12 +23,8 @@
             "id": "57b92f2af66f130d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "נושאים/תכנות גנרי.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -61,7 +57,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links and Shit.md",
+                "file": "נושאים/רנדום.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f5ad1397ed9fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "רנדום מידע לקראת המבחן.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "נושאים/תכנות גנרי.md",
+                "file": "רנדום מידע לקראת המבחן.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "נושאים/תכנות גנרי.md",
+                "file": "רנדום מידע לקראת המבחן.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "נושאים/תכנות גנרי.md"
+                "file": "רנדום מידע לקראת המבחן.md"
               }
             }
           }
@@ -207,26 +215,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57b92f2af66f130d",
+  "active": "e7f5ad1397ed9fd7",
   "lastOpenFiles": [
-    "Resources/Pasted image 20240715002150.png",
+    "נושאים/רנדום.md",
+    "רנדום מידע לקראת המבחן.md",
     "נושאים/תכנות גנרי.md",
+    "Resources/Pasted image 20240715003853.png",
+    "Resources/Pasted image 20240715003526.png",
+    "סיכום חומר.md",
+    "Links and Shit.md",
+    "נושאים/מחלקות ושיט.md",
     "נושאים/ממשק גרפי.md",
+    "דברים לעבור עליהם לקראת המבחן.md",
+    "Resources/Pasted image 20240715002718.png",
+    "Resources/Pasted image 20240715003037.png",
+    "Resources/Pasted image 20240715002150.png",
     "Resources/Pasted image 20240715001029.png",
     "Resources/Pasted image 20240715002036.png",
     "Resources/Pasted image 20240715001938.png",
     "Resources/Pasted image 20240715001904.png",
     "Resources/Pasted image 20240715001813.png",
-    "Resources/Pasted image 20240715001759.png",
-    "Resources/Pasted image 20240715001045.png",
-    "נושאים/מחלקות ושיט.md",
-    "Links and Shit.md",
-    "סיכום חומר.md",
-    "דברים לעבור עליהם לקראת המבחן.md",
-    "Resources/Pasted image 20240715000018.png",
     "נושאים",
-    "Resources/Pasted image 20240714202039.png",
-    "נושאים/רנדום.md",
     "Resources",
     "Welcome.md"
   ]
