@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "ה-toString",
+    "ה-Dog"
+  ]
 }

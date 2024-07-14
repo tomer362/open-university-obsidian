@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
+                "file": "ג'אווה מתקדם/Links and Shit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
+                "file": "ג'אווה מתקדם/Links and Shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
+                "file": "ג'אווה מתקדם/Links and Shit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "אלגוריתמים/Main Notes/1 - סיכום כללי.md"
+                "file": "ג'אווה מתקדם/Links and Shit.md"
               }
             }
           },
@@ -156,17 +156,18 @@
   },
   "active": "ff7e481f076426f7",
   "lastOpenFiles": [
+    "ג'אווה מתקדם/Pasted image 20240714203317.png",
+    "ג'אווה מתקדם/Pasted image 20240714203136.png",
+    "ג'אווה מתקדם/Pasted image 20240714202700.png",
+    "ג'אווה מתקדם/Resources/Pasted image 20240714202244.png",
+    "ג'אווה מתקדם/Resources/Pasted image 20240714202039.png",
+    "ג'אווה מתקדם/Resources/Pasted image 20240714202600.png",
+    "ג'אווה מתקדם/Pasted image 20240714202600.png",
+    "אלגוריתמים/Main Notes/1 - סיכום כללי.md",
     "ג'אווה מתקדם/Pasted image 20240714202244.png",
     "ג'אווה מתקדם/Pasted image 20240714202039.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240714201732.png",
     "ג'אווה מתקדם/Pasted image 20240714201732.png",
-    "ג'אווה מתקדם/Resources/Pasted image 20240714201548.png",
-    "ג'אווה מתקדם/Resources/Pasted image 20240714201542.png",
-    "ג'אווה מתקדם/Resources/Pasted image 20240714201639.png",
-    "ג'אווה מתקדם/Pasted image 20240714201639.png",
-    "ג'אווה מתקדם/Pasted image 20240714201548.png",
-    "ג'אווה מתקדם/Pasted image 20240714201542.png",
-    "ג'אווה מתקדם/Resources/Pasted image 20240714201416.png",
     "ג'אווה מתקדם/Resources",
     "ג'אווה מתקדם/Shit Resources",
     "ג'אווה מתקדם/Untitled",
@@ -176,7 +177,6 @@
     "ג'אווה מתקדם/דברים לעבור עליהם לקראת המבחן.md",
     "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md",
     "אלגוריתמים/7 - במה להשתפר לקראת המבחן.md",
-    "אלגוריתמים/Main Notes/FFT (לא צריך כי לא במבחן).md",
-    "אלגוריתמים/Main Notes/1 - סיכום כללי.md"
+    "אלגוריתמים/Main Notes/FFT (לא צריך כי לא במבחן).md"
   ]
 }
