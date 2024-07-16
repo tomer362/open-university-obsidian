@@ -8,6 +8,18 @@
     "SocketServer",
     "ה-GUI",
     "מה-Thread",
-    "OutputStream"
+    "OutputStream",
+    "ה-Controller",
+    "ב-setter",
+    "ה-ClientThread",
+    "וה-InputStream",
+    "ה-OutputStream",
+    "ב-Socket",
+    "ו-SocketServer",
+    "ל-InputStream",
+    "DatagramPacket",
+    "ו-DatagramSocket",
+    "InetAddress",
+    "ה-hostname"
   ]
 }

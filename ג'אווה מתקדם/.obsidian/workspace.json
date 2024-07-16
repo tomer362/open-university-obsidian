@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "6b86d0025af5d55e",
+            "id": "d7a3e8e6a88dee30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,65 +32,19 @@
             }
           },
           {
-            "id": "13e23af1ceb227b5",
+            "id": "9bd502df29c405e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fad8c7a6f594a21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "נושאים/ממשק גרפי.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e5b51236252fd6f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Pasted image 20240715014117.png"
-              }
-            }
-          },
-          {
-            "id": "8099e365f7fd6e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "נושאים/מקביליות (Threads).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "215f9b634068e06d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "נושאים/ממשק גרפי.md",
+                "file": "נושאים/רנדום.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/רנדום.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/רנדום.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md"
+                "file": "נושאים/רנדום.md"
               }
             }
           }
@@ -217,26 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b86d0025af5d55e",
+  "active": "9bd502df29c405e3",
   "lastOpenFiles": [
-    "Resources/Pasted image 20240716202846.png",
     "דברים לעבור עליהם לקראת המבחן.md",
+    "נושאים/רנדום.md",
+    "נושאים/ממשק גרפי.md",
+    "סיכום חומר.md",
     "נושאים/תקשורת.md",
+    "Resources/Pasted image 20240716204403.png",
+    "Resources/Pasted image 20240716202846.png",
     "Resources/Pasted image 20240716202856.png",
     "רנדום מידע לקראת המבחן.md",
-    "סיכום חומר.md",
     "Resources/Pasted image 20240716200752.png",
     "Resources/Pasted image 20240716195523.png",
-    "נושאים/רנדום.md",
     "נושאים/מקביליות (Threads).md",
     "Resources/Pasted image 20240716195135.png",
     "Resources/Pasted image 20240716194828.png",
-    "נושאים/ממשק גרפי.md",
     "נושאים/תכנות גנרי.md",
     "Resources/Pasted image 20240715014940.png",
     "Resources/Pasted image 20240715014509.png",
     "Resources/Pasted image 20240715014820.png",
-    "Resources/Pasted image 20240715014601.png",
     "נושאים/מחרוזות תווים וקבצים.md",
     "נושאים/חריגות (Exceptions).md",
     "Links and Shit.md",
