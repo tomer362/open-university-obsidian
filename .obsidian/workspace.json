@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b746d1d49ddddb8",
+        "id": "ddcce6bc454d358e",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba6620276897cd9",
+            "id": "e1471cee104bff6c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#מבחן",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,11 +131,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff7e481f076426f7",
+  "active": "e1471cee104bff6c",
   "lastOpenFiles": [
+    "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md",
     "ג'אווה מתקדם/Pasted image 20240715014940.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240715014601.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240715014534.png",
@@ -158,7 +160,6 @@
     "ג'אווה מתקדם/Pasted image 20240715014534.png",
     "ג'אווה מתקדם/Pasted image 20240715014509.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240715014229.png",
-    "ג'אווה מתקדם/Resources/Pasted image 20240715014117.png",
     "ג'אווה מתקדם/נושאים/מקביליות (Threads).md",
     "ג'אווה מתקדם/נושאים/Untitled.md",
     "ג'אווה מתקדם/Untitled.md",
@@ -184,7 +185,6 @@
     "ג'אווה מתקדם/מחלקות ושיט.md",
     "ג'אווה מתקדם/סיכום חומר.md",
     "ג'אווה מתקדם/דברים לעבור עליהם לקראת המבחן.md",
-    "אלגוריתמים/Main Notes/6 - במה להשתפר לקראת המבחן.md",
     "אלגוריתמים/7 - במה להשתפר לקראת המבחן.md",
     "אלגוריתמים/Main Notes/FFT (לא צריך כי לא במבחן).md"
   ]
