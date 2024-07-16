@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "רנדום מידע לקראת המבחן.md",
+                "file": "נושאים/מקביליות (Threads).md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/מקביליות (Threads).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "רנדום מידע לקראת המבחן.md",
+                "file": "נושאים/מקביליות (Threads).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "רנדום מידע לקראת המבחן.md",
+                "file": "נושאים/מקביליות (Threads).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "רנדום מידע לקראת המבחן.md"
+                "file": "נושאים/מקביליות (Threads).md"
               }
             }
           }
@@ -205,27 +205,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af7883dd097da0e4",
+  "active": "51930d471aa532e7",
   "lastOpenFiles": [
+    "Resources/Pasted image 20240716195135.png",
+    "סיכום חומר.md",
+    "Resources/Pasted image 20240716194828.png",
+    "דברים לעבור עליהם לקראת המבחן.md",
     "נושאים/מקביליות (Threads).md",
-    "Pasted image 20240715014940.png",
+    "נושאים/ממשק גרפי.md",
+    "נושאים/תכנות גנרי.md",
+    "Resources/Pasted image 20240715014940.png",
+    "רנדום מידע לקראת המבחן.md",
     "Resources/Pasted image 20240715014509.png",
     "Resources/Pasted image 20240715014820.png",
     "Resources/Pasted image 20240715014601.png",
     "Resources/Pasted image 20240715014534.png",
-    "סיכום חומר.md",
-    "נושאים/ממשק גרפי.md",
-    "דברים לעבור עליהם לקראת המבחן.md",
     "Resources/Pasted image 20240715014117.png",
     "Resources/Pasted image 20240715014331.png",
     "Resources/Pasted image 20240715014229.png",
     "נושאים/מחרוזות תווים וקבצים.md",
     "Resources/Pasted image 20240715013820.png",
-    "Resources/Pasted image 20240715013828.png",
     "נושאים/חריגות (Exceptions).md",
-    "נושאים/תכנות גנרי.md",
     "Links and Shit.md",
-    "רנדום מידע לקראת המבחן.md",
     "נושאים/רנדום.md",
     "נושאים/מחלקות ושיט.md",
     "נושאים",

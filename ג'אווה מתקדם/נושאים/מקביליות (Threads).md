@@ -19,3 +19,8 @@
 ## מניעה הדדית
 איך לפתור מניעה הדדית
 ![[Pasted image 20240715014940.png]]
+
+### synchronized static
+סתם אנקדוטה על שיטות שהן synchornized static, אם יש ל-class שמוגן ע"י synchornized משתנים סטטיים ורוצים לגעת בהם אז צריך לעשות את זה מפונקציה שהיא מוגדרת כ-synchornized static
+והמקור של זה:
+![[Pasted image 20240716195135.png]]
