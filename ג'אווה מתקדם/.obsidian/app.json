@@ -2,6 +2,12 @@
   "promptDelete": false,
   "spellcheckDictionary": [
     "ה-toString",
-    "ה-Dog"
+    "ה-Dog",
+    "ב-FXMLLoader",
+    "ObjectOutputStream",
+    "SocketServer",
+    "ה-GUI",
+    "מה-Thread",
+    "OutputStream"
   ]
 }
