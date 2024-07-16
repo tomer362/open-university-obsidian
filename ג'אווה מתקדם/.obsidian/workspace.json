@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "נושאים/רנדום.md",
+                "file": "נושאים/תכנות גנרי (גנריות).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "קישור דינ",
+                "query": "גנריות",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "נושאים/רנדום.md",
+                "file": "נושאים/תכנות גנרי (גנריות).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "נושאים/רנדום.md",
+                "file": "נושאים/תכנות גנרי (גנריות).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "נושאים/רנדום.md"
+                "file": "נושאים/תכנות גנרי (גנריות).md"
               }
             }
           }
@@ -174,9 +175,10 @@
   "active": "9bd502df29c405e3",
   "lastOpenFiles": [
     "דברים לעבור עליהם לקראת המבחן.md",
+    "סיכום חומר.md",
+    "נושאים/תכנות גנרי (גנריות).md",
     "נושאים/רנדום.md",
     "נושאים/ממשק גרפי.md",
-    "סיכום חומר.md",
     "נושאים/תקשורת.md",
     "Resources/Pasted image 20240716204403.png",
     "Resources/Pasted image 20240716202846.png",
@@ -187,7 +189,6 @@
     "נושאים/מקביליות (Threads).md",
     "Resources/Pasted image 20240716195135.png",
     "Resources/Pasted image 20240716194828.png",
-    "נושאים/תכנות גנרי.md",
     "Resources/Pasted image 20240715014940.png",
     "Resources/Pasted image 20240715014509.png",
     "Resources/Pasted image 20240715014820.png",
