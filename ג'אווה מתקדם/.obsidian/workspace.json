@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "נושאים/3 - חריגות (Exceptions).md",
+                "file": "נושאים/4 - ממשק גרפי.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "גנריות",
+                "query": "javafx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "נושאים/3 - חריגות (Exceptions).md",
+                "file": "נושאים/4 - ממשק גרפי.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "נושאים/3 - חריגות (Exceptions).md",
+                "file": "נושאים/4 - ממשק גרפי.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "נושאים/3 - חריגות (Exceptions).md"
+                "file": "נושאים/4 - ממשק גרפי.md"
               }
             }
           }
@@ -195,16 +196,16 @@
   },
   "active": "d7a3e8e6a88dee30",
   "lastOpenFiles": [
+    "נושאים/7 - תקשורת.md",
+    "נושאים/3 - חריגות (Exceptions).md",
     "Pasted image 20240716220333.png",
     "דברים לעבור עליהם לקראת המבחן.md",
     "רנדום מידע לקראת המבחן.md",
     "Resources/Pasted image 20240716211839.png",
     "נושאים/6 - תכנות גנרי (גנריות).md",
-    "נושאים/7 - תקשורת.md",
     "נושאים/8 - רנדום.md",
     "נושאים/5 - מקביליות (Threads).md",
     "נושאים/4 - ממשק גרפי.md",
-    "נושאים/3 - חריגות (Exceptions).md",
     "נושאים/2 - מחרוזות תווים וקבצים.md",
     "נושאים/1 - מחלקות ושיט.md",
     "סיכום חומר.md",
@@ -216,7 +217,6 @@
     "Resources/Pasted image 20240716195135.png",
     "Resources/Pasted image 20240716194828.png",
     "Resources/Pasted image 20240715014940.png",
-    "Resources/Pasted image 20240715014509.png",
     "Links and Shit.md",
     "נושאים",
     "Resources",
