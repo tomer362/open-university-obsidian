@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62d907c02dda3bf7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Pasted image 20240719112017.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "רנדום מידע לקראת המבחן.md",
+                "file": "Resources/Pasted image 20240719112017.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "רנדום מידע לקראת המבחן.md",
+                "file": "Resources/Pasted image 20240719112017.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "רנדום מידע לקראת המבחן.md"
+                "file": "Resources/Pasted image 20240719112017.png"
               }
             }
           }
@@ -146,12 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1af3457c4d1f749",
+  "active": "51930d471aa532e7",
   "lastOpenFiles": [
+    "דברים להוסיף למדריך הלמידה או לספר.md",
+    "Resources/Pasted image 20240719112036.png",
+    "Resources/Pasted image 20240719112017.png",
+    "רנדום מידע לקראת המבחן.md",
     "Resources/Pasted image 20240719090225.png",
     "Resources/Pasted image 20240719090151.png",
     "דברים לעבור עליהם לקראת המבחן.md",
-    "רנדום מידע לקראת המבחן.md",
     "סיכום חומר.md",
     "נושאים/4 - ממשק גרפי.md",
     "נושאים/6 - תכנות גנרי (גנריות).md",
@@ -167,8 +181,6 @@
     "Resources/Pasted image 20240716204403.png",
     "Resources/Pasted image 20240716202846.png",
     "Resources/Pasted image 20240716202856.png",
-    "Resources/Pasted image 20240716200752.png",
-    "Resources/Pasted image 20240716195523.png",
     "Links and Shit.md",
     "נושאים",
     "Resources",
