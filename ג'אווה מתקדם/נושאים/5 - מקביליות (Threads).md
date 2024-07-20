@@ -19,9 +19,9 @@
 איך לפתור מניעה הדדית
 ![[Pasted image 20240715014940.png]]
 
->[!info] להשתמש ב-wait ו-notifyAll אפשר רק בפונקציה שהיא synchronize
+>[!info] להשתמש ב-wait ו-notifyAll אפשר רק בפונקציה שהיא synchronized
 ## synchronized static
-סתם אנקדוטה על שיטות שהן synchronized static, אם יש ל-class שמוגן ע"י synchronized משתנים סטטיים ורוצים לגעת בהם אז צריך לעשות את זה מפונקציה שהיא מוגדרת כ-synchronized static
+סתם נקודה מעניינת על שיטות שהן synchronized static, אם יש ל-class שמוגן ע"י synchronized משתנים סטטיים ורוצים לגעת בהם אז צריך לעשות את זה מפונקציה שהיא מוגדרת כ-synchronized static
 והמקור של זה:
 ![[Pasted image 20240716195135.png]]
 
