@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Iterator",
+                "query": "EventHandler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,17 +149,17 @@
   },
   "active": "1c8a0ed856bd8e3a",
   "lastOpenFiles": [
+    "דברים להוסיף למדריך הלמידה או לספר.md",
+    "דברים לעבור עליהם לקראת המבחן.md",
     "רנדום מידע לקראת המבחן.md",
     "נושאים/6 - תכנות גנרי (גנריות).md",
     "Resources/Pasted image 20240719112017.png",
     "Pasted image 20240720222611.png",
     "נושאים/8 - רנדום.md",
     "נושאים/5 - מקביליות (Threads).md",
-    "דברים להוסיף למדריך הלמידה או לספר.md",
     "Resources/Pasted image 20240719112036.png",
     "Resources/Pasted image 20240719090225.png",
     "Resources/Pasted image 20240719090151.png",
-    "דברים לעבור עליהם לקראת המבחן.md",
     "סיכום חומר.md",
     "נושאים/4 - ממשק גרפי.md",
     "Resources/Pasted image 20240716220333.png",
