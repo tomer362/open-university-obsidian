@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EventHandler",
+                "query": "setVisi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8a0ed856bd8e3a",
+  "active": "8a8eec3992708b8f",
   "lastOpenFiles": [
     "דברים להוסיף למדריך הלמידה או לספר.md",
     "דברים לעבור עליהם לקראת המבחן.md",
