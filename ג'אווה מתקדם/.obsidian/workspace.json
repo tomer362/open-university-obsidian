@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setVisi",
+                "query": "לא גנרית",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,27 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a8eec3992708b8f",
+  "active": "1c8a0ed856bd8e3a",
   "lastOpenFiles": [
-    "דברים להוסיף למדריך הלמידה או לספר.md",
-    "דברים לעבור עליהם לקראת המבחן.md",
+    "סיכום חומר.md",
     "רנדום מידע לקראת המבחן.md",
+    "Resources/Pasted image 20240720222611.png",
     "נושאים/6 - תכנות גנרי (גנריות).md",
+    "נושאים/3 - חריגות (Exceptions).md",
+    "דברים לעבור עליהם לקראת המבחן.md",
+    "דברים להוסיף למדריך הלמידה או לספר.md",
     "Resources/Pasted image 20240719112017.png",
-    "Pasted image 20240720222611.png",
     "נושאים/8 - רנדום.md",
     "נושאים/5 - מקביליות (Threads).md",
     "Resources/Pasted image 20240719112036.png",
     "Resources/Pasted image 20240719090225.png",
     "Resources/Pasted image 20240719090151.png",
-    "סיכום חומר.md",
     "נושאים/4 - ממשק גרפי.md",
     "Resources/Pasted image 20240716220333.png",
     "נושאים/7 - תקשורת.md",
     "נושאים/2 - מחרוזות תווים וקבצים.md",
     "Resources/Pasted image 20240716211839.png",
     "Resources/Pasted image 20240715001045.png",
-    "נושאים/3 - חריגות (Exceptions).md",
     "נושאים/1 - מחלקות ושיט.md",
     "Resources/Pasted image 20240716204403.png",
     "Resources/Pasted image 20240716202846.png",
