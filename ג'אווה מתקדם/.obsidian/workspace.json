@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/5 - מקביליות (Threads).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/5 - מקביליות (Threads).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "file": "נושאים/5 - מקביליות (Threads).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "דברים לעבור עליהם לקראת המבחן.md"
+                "file": "נושאים/5 - מקביליות (Threads).md"
               }
             }
           }
@@ -173,9 +173,13 @@
   },
   "active": "fee7f20cd5cbefb1",
   "lastOpenFiles": [
-    "סיכום חומר.md",
+    "נושאים/4 - ממשק גרפי.md",
+    "נושאים/5 - מקביליות (Threads).md",
+    "נושאים/7 - תקשורת.md",
+    "נושאים/6 - תכנות גנרי (גנריות).md",
     "דברים להוסיף למדריך הלמידה או לספר.md",
     "דברים לעבור עליהם לקראת המבחן.md",
+    "סיכום חומר.md",
     "רנדום מידע לקראת המבחן.md",
     "Resources/Pasted image 20240723185540.png",
     "נושאים/1 - מחלקות ושיט.md",
@@ -185,15 +189,11 @@
     "Resources/Pasted image 20240723184418.png",
     "Resources/Pasted image 20240723183848.png",
     "Resources/Pasted image 20240720222611.png",
-    "נושאים/6 - תכנות גנרי (גנריות).md",
     "נושאים/3 - חריגות (Exceptions).md",
     "Resources/Pasted image 20240719112017.png",
-    "נושאים/5 - מקביליות (Threads).md",
     "Resources/Pasted image 20240719112036.png",
     "Resources/Pasted image 20240719090225.png",
     "Resources/Pasted image 20240719090151.png",
-    "נושאים/4 - ממשק גרפי.md",
-    "נושאים/7 - תקשורת.md",
     "נושאים/2 - מחרוזות תווים וקבצים.md",
     "Links and Shit.md",
     "נושאים",
