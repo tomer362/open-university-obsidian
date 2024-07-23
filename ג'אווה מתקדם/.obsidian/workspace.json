@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "נושאים/1 - מחלקות ושיט.md",
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fee7f20cd5cbefb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "protected",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "נושאים/1 - מחלקות ושיט.md",
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "נושאים/1 - מחלקות ושיט.md",
+                "file": "דברים לעבור עליהם לקראת המבחן.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "נושאים/1 - מחלקות ושיט.md"
+                "file": "דברים לעבור עליהם לקראת המבחן.md"
               }
             }
           }
@@ -160,15 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0502db5789054e51",
+  "active": "fee7f20cd5cbefb1",
   "lastOpenFiles": [
-    "נושאים/8 - רנדום.md",
-    "Pasted image 20240723185540.png",
-    "Resources/Pasted image 20240723184955.png",
     "סיכום חומר.md",
-    "רנדום מידע לקראת המבחן.md",
-    "דברים לעבור עליהם לקראת המבחן.md",
     "דברים להוסיף למדריך הלמידה או לספר.md",
+    "דברים לעבור עליהם לקראת המבחן.md",
+    "רנדום מידע לקראת המבחן.md",
+    "Resources/Pasted image 20240723185540.png",
+    "נושאים/1 - מחלקות ושיט.md",
+    "נושאים/8 - רנדום.md",
+    "Resources/Pasted image 20240723184955.png",
     "Resources/Pasted image 20240723183248.png",
     "Resources/Pasted image 20240723184418.png",
     "Resources/Pasted image 20240723183848.png",
@@ -183,7 +195,6 @@
     "נושאים/4 - ממשק גרפי.md",
     "נושאים/7 - תקשורת.md",
     "נושאים/2 - מחרוזות תווים וקבצים.md",
-    "נושאים/1 - מחלקות ושיט.md",
     "Links and Shit.md",
     "נושאים",
     "Resources",
