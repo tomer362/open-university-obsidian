@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "נושאים/5 - מקביליות (Threads).md",
+                "file": "נושאים/6 - תכנות גנרי (גנריות).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HashMap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "נושאים/5 - מקביליות (Threads).md",
+                "file": "נושאים/6 - תכנות גנרי (גנריות).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "נושאים/5 - מקביליות (Threads).md",
+                "file": "נושאים/6 - תכנות גנרי (גנריות).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "נושאים/5 - מקביליות (Threads).md"
+                "file": "נושאים/6 - תכנות גנרי (גנריות).md"
               }
             }
           }
@@ -173,28 +174,28 @@
   },
   "active": "fee7f20cd5cbefb1",
   "lastOpenFiles": [
+    "נושאים/1 - מחלקות ושיט.md",
+    "נושאים/2 - מחרוזות תווים וקבצים.md",
+    "נושאים/3 - חריגות (Exceptions).md",
     "נושאים/4 - ממשק גרפי.md",
     "נושאים/5 - מקביליות (Threads).md",
-    "נושאים/7 - תקשורת.md",
     "נושאים/6 - תכנות גנרי (גנריות).md",
+    "נושאים/7 - תקשורת.md",
+    "נושאים/8 - רנדום.md",
     "דברים להוסיף למדריך הלמידה או לספר.md",
     "דברים לעבור עליהם לקראת המבחן.md",
     "סיכום חומר.md",
     "רנדום מידע לקראת המבחן.md",
     "Resources/Pasted image 20240723185540.png",
-    "נושאים/1 - מחלקות ושיט.md",
-    "נושאים/8 - רנדום.md",
     "Resources/Pasted image 20240723184955.png",
     "Resources/Pasted image 20240723183248.png",
     "Resources/Pasted image 20240723184418.png",
     "Resources/Pasted image 20240723183848.png",
     "Resources/Pasted image 20240720222611.png",
-    "נושאים/3 - חריגות (Exceptions).md",
     "Resources/Pasted image 20240719112017.png",
     "Resources/Pasted image 20240719112036.png",
     "Resources/Pasted image 20240719090225.png",
     "Resources/Pasted image 20240719090151.png",
-    "נושאים/2 - מחרוזות תווים וקבצים.md",
     "Links and Shit.md",
     "נושאים",
     "Resources",
