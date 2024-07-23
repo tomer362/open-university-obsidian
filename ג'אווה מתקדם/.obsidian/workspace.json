@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "סיכום חומר.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0502db5789054e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "נושאים/8 - רנדום.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,19 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8a0ed856bd8e3a",
+  "active": "51930d471aa532e7",
   "lastOpenFiles": [
-    "Pasted image 20240723183848.png",
-    "Pasted image 20240723183248.png",
-    "דברים לעבור עליהם לקראת המבחן.md",
+    "Resources/Pasted image 20240723184955.png",
     "סיכום חומר.md",
     "רנדום מידע לקראת המבחן.md",
+    "דברים לעבור עליהם לקראת המבחן.md",
+    "דברים להוסיף למדריך הלמידה או לספר.md",
+    "Resources/Pasted image 20240723183248.png",
+    "נושאים/8 - רנדום.md",
+    "Resources/Pasted image 20240723184418.png",
+    "Resources/Pasted image 20240723183848.png",
     "Resources/Pasted image 20240720222611.png",
     "נושאים/6 - תכנות גנרי (גנריות).md",
     "נושאים/3 - חריגות (Exceptions).md",
-    "דברים להוסיף למדריך הלמידה או לספר.md",
     "Resources/Pasted image 20240719112017.png",
-    "נושאים/8 - רנדום.md",
     "נושאים/5 - מקביליות (Threads).md",
     "Resources/Pasted image 20240719112036.png",
     "Resources/Pasted image 20240719090225.png",
@@ -168,9 +183,7 @@
     "נושאים/7 - תקשורת.md",
     "נושאים/2 - מחרוזות תווים וקבצים.md",
     "Resources/Pasted image 20240716211839.png",
-    "Resources/Pasted image 20240715001045.png",
     "נושאים/1 - מחלקות ושיט.md",
-    "Resources/Pasted image 20240716204403.png",
     "Links and Shit.md",
     "נושאים",
     "Resources",
