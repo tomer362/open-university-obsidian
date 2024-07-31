@@ -11,9 +11,11 @@
             "id": "e1471cee104bff6c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "סדנה באבטחת מידע/Resources/Pasted image 20240718084551.png"
+                "file": "הסתברות/Random Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "סדנה באבטחת מידע/Resources/Pasted image 20240718084551.png",
+                "file": "הסתברות/Random Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "סדנה באבטחת מידע/Resources/Pasted image 20240718084551.png",
+                "file": "הסתברות/Random Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "סדנה באבטחת מידע/Resources/Pasted image 20240718084551.png"
+                "file": "הסתברות/Random Notes.md"
               }
             }
           },
@@ -152,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f45cb7226f666a80",
+  "active": "e1471cee104bff6c",
   "lastOpenFiles": [
-    "הסתברות/הסתברות/Random Notes.md",
+    "סדנה באבטחת מידע/Resources/Pasted image 20240718084551.png",
+    "הסתברות/Random Notes.md",
     "הסתברות/הסתברות/Welcome.md",
-    "הסתברות/הסתברות",
+    "הסתברות",
     "הסתברות",
     "New folder",
     "ג'אווה מתקדם/Resources/Pasted image 20240723185540.png",
@@ -194,7 +197,6 @@
     "ג'אווה מתקדם/נושאים/Exceptions.md",
     "ג'אווה מתקדם/רנדום מידע לקראת המבחן.md",
     "ג'אווה מתקדם/נושאים/תכנות גנרי.md",
-    "ג'אווה מתקדם/תכנות גנרי.md",
     "ג'אווה מתקדם/נושאים",
     "ג'אווה מתקדם/Untitled",
     "Untitled 1.canvas",
