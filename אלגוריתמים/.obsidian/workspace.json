@@ -13,14 +13,64 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Main Notes/1 - סיכום כללי.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cee310493d62bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "6608aae872aa9aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/3.5 - גרפים.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baf340ad7339b2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/5 - סיכומים.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "495620426d8b09ab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Shit Attachments/אלגוריתמים.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "פרים",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md",
+                "file": "Main Notes/1 - סיכום כללי.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md",
+                "file": "Main Notes/1 - סיכום כללי.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Notes/6 - במה להשתפר לקראת המבחן.md"
+                "file": "Main Notes/1 - סיכום כללי.md"
               }
             }
           }
@@ -150,19 +200,20 @@
   },
   "active": "9abae9025d6e42cb",
   "lastOpenFiles": [
-    "Main Notes/5 - סיכומים.md",
-    "Main Notes/4 - רשתות זרימה.md",
-    "Main Notes/6 - במה להשתפר לקראת המבחן.md",
-    "Main Notes/3.5 - גרפים.md",
     "Main Notes/1 - סיכום כללי.md",
-    "Main Notes/2 - הערות לגבי המבחן.md",
+    "Main Notes/5 - סיכומים.md",
+    "Main Notes/3.5 - גרפים.md",
+    "Main Notes/6 - במה להשתפר לקראת המבחן.md",
+    "Shit Attachments/אלגוריתמים.pdf",
+    "Main Notes/FFT (לא צריך כי לא במבחן).md",
+    "Main Notes/4 - רשתות זרימה.md",
     "Main Notes/3 - תכנון דינאמי.md",
+    "Main Notes/2 - הערות לגבי המבחן.md",
     "7 - במה להשתפר לקראת המבחן.md",
     "2024-06-29.md",
     "Shit Attachments/Pasted image 20240628161632.png",
     "Main Notes/FFT (לא צריך כי לא במבחן) - 6.md",
     "Main Notes",
-    "Shit Attachments/אלגוריתמים.pdf",
     "Shit Attachments/Pasted image 20240516233414.png",
     "Links and shit.md",
     "Shit Attachments/Pasted image 20240516233412.png",
