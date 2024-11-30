@@ -11,10 +11,14 @@
             "id": "e1471cee104bff6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "מודלים חישוביים/98 - מידע כללי על הקורס.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "98 - מידע כללי על הקורס"
             }
           }
         ]
@@ -164,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f45cb7226f666a80",
+  "active": "e1471cee104bff6c",
   "lastOpenFiles": [
+    "מודלים חישוביים/98 - מידע כללי על הקורס.md",
+    "Untitled",
+    "מודלים חישוביים",
     "הסתברות/Pasted image 20240731072954.png",
     "סדנה באבטחת מידע/Resources/Pasted image 20240718084551.png",
     "הסתברות/Random Notes.md",
@@ -181,7 +188,6 @@
     "ג'אווה מתקדם/Resources/Pasted image 20240723183248.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240723184418.png",
     "ג'אווה מתקדם/Pasted image 20240723184418.png",
-    "ג'אווה מתקדם/Pasted image 20240723183848.png",
     "ג'אווה מתקדם/דברים להוסיף למדריך הלמידה או לספר.md",
     "ג'אווה מתקדם/Untitled.md",
     "סדנה באבטחת מידע/Resources",
@@ -211,7 +217,6 @@
     "ג'אווה מתקדם/Untitled",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "ג'אווה מתקדם/Resources",
-    "ג'אווה מתקדם/Shit Resources"
+    "ג'אווה מתקדם/Resources"
   ]
 }
