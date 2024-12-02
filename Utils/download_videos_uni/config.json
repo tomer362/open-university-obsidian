@@ -1,0 +1,17 @@
+{
+    "downloads": [
+        {
+          "url_template": "https://souvod.bynetcdn.com/vod/smil:vod/openu/PRV5/zvgvPVDw9H/App/zvgvPVDw9H_10.smil/media_b1800000_{}.ts?md5=twTOAHRsQYhUHrZ6itnjGg&expires=1733177679",
+          "destination_file": "מפגש 1.ts"
+        },
+        {
+          "url_template": "https://souvod.bynetcdn.com/vod/smil:vod/openu/PRV5/EJjedS2v5d/App/EJjedS2v5d_10.smil/media_b1800000_{}.ts?md5=jOc3RM4wG1YRvWNB9BzgTQ&expires=1733181985",
+          "destination_file": "מפגש 2.ts"
+        },
+        {
+          "url_template": "https://souvod.bynetcdn.com/vod/smil:vod/openu/PRV5/nUtr4XpcNR/App/nUtr4XpcNR_10.smil/media_b1800000_{}.ts?md5=WC6jCsE9XS_WgJ1OL9eHpw&expires=1733181950",
+          "destination_file": "מפגש 3.ts"
+        }    
+    ]
+  }
+  

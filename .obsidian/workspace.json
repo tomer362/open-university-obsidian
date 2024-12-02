@@ -168,8 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1471cee104bff6c",
+  "active": "f45cb7226f666a80",
   "lastOpenFiles": [
+    "Utils/download_videos_uni/ffmpeg.exe",
+    "Utils/download_videos_uni/fetch_new_test.py",
+    "Utils/download_videos_uni/config.json",
+    "Utils/download_videos_uni",
+    "Utils/New folder",
+    "Utils",
+    "New folder",
     "מודלים חישוביים/98 - מידע כללי על הקורס.md",
     "Untitled",
     "מודלים חישוביים",
@@ -179,7 +186,6 @@
     "הסתברות/הסתברות/Welcome.md",
     "הסתברות",
     "הסתברות",
-    "New folder",
     "ג'אווה מתקדם/Resources/Pasted image 20240723185540.png",
     "ג'אווה מתקדם/Pasted image 20240723185540.png",
     "ג'אווה מתקדם/Resources/Pasted image 20240723184955.png",
@@ -190,9 +196,7 @@
     "ג'אווה מתקדם/Pasted image 20240723184418.png",
     "ג'אווה מתקדם/דברים להוסיף למדריך הלמידה או לספר.md",
     "ג'אווה מתקדם/Untitled.md",
-    "סדנה באבטחת מידע/Resources",
     "סדנה באבטחת מידע/מפגשים חיים.md",
-    "סדנה באבטחת מידע",
     "ג'אווה מתקדם/נושאים/7 - תקשורת.md",
     "ג'אווה מתקדם/נושאים/8 - רנדום.md",
     "ג'אווה מתקדם/נושאים/6 - תכנות גנרי (גנריות).md",
@@ -212,11 +216,7 @@
     "ג'אווה מתקדם/נושאים/חריגות (Exceptions).md",
     "ג'אווה מתקדם/נושאים/Exceptions.md",
     "ג'אווה מתקדם/רנדום מידע לקראת המבחן.md",
-    "ג'אווה מתקדם/נושאים/תכנות גנרי.md",
-    "ג'אווה מתקדם/נושאים",
-    "ג'אווה מתקדם/Untitled",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "ג'אווה מתקדם/Resources"
+    "Untitled.canvas"
   ]
 }
